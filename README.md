@@ -1,4 +1,3 @@
 # Rompecabezas - Acamica - Web Developer Full Stack
-Funny puzzle game where the pieces are randomly mixed in Javascript.
 
-Juego de rompecabezas donde las piezas son mezcladas al azar cada vez.
+Juego de rompecabezas donde las piezas son mezcladas al azar en cada juego, a través de Javascript va chequeando el orden correcto de dichas piezas.
